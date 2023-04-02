@@ -11,7 +11,7 @@
 
         <hgroup>
             <h1>Intelligent Now!</h1>
-            <p>A series of expositions with AI. Some ART, some PRACTICAL, some EDUCTIONAL...</p>
+            <p>A series of expositions with AI. Some ART, some PRACTICAL, some EDUCATIONAL...</p>
         </hgroup>
 
 
@@ -34,5 +34,5 @@
 
         <details>
             <summary>About this site</summary>
-            <p>Intelligent Now is made by <a href="https://www.twitter.com/aneesha">@aneesha</a> and a way to showcase everything she is buildng in partnership with AI.</p>
+            <p>Intelligent Now is made by <a href="https://www.twitter.com/aneesha">@aneesha</a> and a way to showcase everything she is building in partnership with AI.</p>
         </details>
